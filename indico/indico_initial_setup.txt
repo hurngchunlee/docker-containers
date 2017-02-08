@@ -1,0 +1,4 @@
+/opt/indico
+c
+Y
+/opt/indico/db
