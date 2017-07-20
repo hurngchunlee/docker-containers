@@ -1,2 +1,1 @@
-# docker-containers
-Repository of various docker containers
+# Docker container of the [Indico](http://indico-software.org) agenda system
